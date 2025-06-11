@@ -13,17 +13,26 @@
             // Adicione um 'alt' para acessibilidade e legenda
             const images = [
                 { src: './fotos/foto1.jpg', alt: 'Eu' },
-                { src: 'https://via.placeholder.com/600x400/00FF00/FFFFFF?Text=Imagem+2', alt: 'Não' },
-                { src: 'https://via.placeholder.com/600x400/0000FF/FFFFFF?Text=Imagem+3', alt: 'Consigo' },
-                { src: 'https://via.placeholder.com/600x400/FFFF00/000000?Text=Imagem+4', alt: 'Viver' },
+                { src: './fotos/foto2.jpg', alt: 'Não' },
+                { src: './fotos/foto3.jpg', alt: 'Consigo' },
+                { src: './fotos/foto4.jpg', alt: 'Viver' },
                 { src: './fotos/foto5.jpg', alt: 'Sem' },
-                { src: 'https://via.placeholder.com/600x400/00FFFF/000000?Text=Imagem+6', alt: 'Você.' },
-                { src: 'https://via.placeholder.com/600x400/00FFFF/000000?Text=Imagem+6', alt: 'Te' },
+                { src: './fotos/foto6.jpg', alt: 'Você.' },
+                { src: './fotos/foto7.jpg', alt: 'Te' },
                 { src: './fotos/foto8.jpg', alt: 'Amo' },
                 { src: './fotos/foto9.jpg', alt: 'Mais' },
                 { src: './fotos/foto10.jpg', alt: 'Que' },
-                { src: 'https://via.placeholder.com/600x400/00FFFF/000000?Text=Imagem+6', alt: 'Tudo' },
-                { src: 'https://via.placeholder.com/600x400/00FFFF/000000?Text=Imagem+6', alt: '❤' }
+                { src: './fotos/foto11.jpg', alt: 'Tudo' },
+                { src: './fotos/foto12-18.jpg', alt: '❤' },
+                { src: './fotos/foto13.jpg', alt: '❤' },
+                { src: './fotos/foto14.jpg', alt: '❤' },
+                { src: './fotos/foto15.jpg', alt: '❤' },
+                { src: './fotos/foto16.jpg', alt: '❤' },
+                { src: './fotos/foto17.jpg', alt: '❤' },
+                { src: './fotos/foto12.jpg', alt: '❤' },
+                { src: './fotos/foto19.jpg', alt: '❤' },
+                { src: './fotos/foto20.jpg', alt: '❤' },
+                { src: './fotos/foto21.jpg', alt: '❤' },
             ];
 
             // Criar miniaturas
