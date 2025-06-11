@@ -26,15 +26,19 @@ h1{
     padding: 20px;
     gap: 15px; /* Espaçamento entre as miniaturas */
 }
-
+.msg-bg{
+    background-image: url("./fotos/bg.jpg");
+    background-size: cover;
+}
 .text-container {
-    display: flex;
+    background-color: #ffe2f8;
+    display:block;
     flex-wrap: wrap;
     justify-content: center;
     padding: 20px;
-    gap: 10px;  
+    margin:30px;
     width: 600px;
-    height: 700px;
+    height: 750px;
 }
 .mensagem{
     color: black;
